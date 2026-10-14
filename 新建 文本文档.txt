@@ -1,0 +1,3 @@
+DataGrip      → 手动管理数据库、写SQL
+PyMySQL       → Python连接MySQL
+Pandas        → 读取查询结果并做数据分析
